@@ -1,3 +1,10 @@
+#about
+This project is a real-time Face and Emotion Detection system built entirely in Python, using OpenCV for face detection and a Convolutional Neural Network (CNN) for emotion classification.  
+It processes live webcam streams to identify human faces and recognize their emotions such as happiness, sadness, anger, surprise, and more.
+
+
+
+
 # face-detection
 
 A Python-based Face and Emotion Detection system using deep learning and computer vision techniques.  
